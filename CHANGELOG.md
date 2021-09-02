@@ -2,7 +2,7 @@
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
-trigger change
+trigger change 2
 ## 0.4.0
 
 ([Full Changelog](https://github.com/jupyter-server/jupyter_releaser/compare/v1...a485f446f1214419f414bede35a24a2bc3e29a5f))
